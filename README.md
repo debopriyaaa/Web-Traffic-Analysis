@@ -53,3 +53,4 @@ The workbook includes three analysis layers built on top of the raw data:
 ## Tools
 
 Microsoft Excel - pivot tables, aggregation formulas, dashboard design
+![dashboard](Screenshot 2026-09-14 162145.png)
